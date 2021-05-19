@@ -1,0 +1,2 @@
+(this["webpackJsonpcertificates-ui"]=this["webpackJsonpcertificates-ui"]||[]).push([[17],{362:function(t,e,i){"use strict";i.r(e),i.d(e,"amplify_auth_container",(function(){return u}));var n=i(10),u=function(){function t(t){Object(n.k)(this,t)}return t.prototype.render=function(){return Object(n.i)(n.b,null,Object(n.i)("form",{autoComplete:"on",hidden:!0},Object(n.i)("input",{name:"username"}),Object(n.i)("input",{name:"password",type:"password"}),Object(n.i)("input",{type:"submit"})),Object(n.i)("slot",null))},t}()}}]);
+//# sourceMappingURL=17.cb721c2b.chunk.js.map

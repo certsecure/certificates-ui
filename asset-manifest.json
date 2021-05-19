@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/certificates-ui/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/certificates-ui/static/js/main.32f94f2a.chunk.js",
+    "main.js.map": "/certificates-ui/static/js/main.32f94f2a.chunk.js.map",
+    "runtime-main.js": "/certificates-ui/static/js/runtime-main.a4b72750.js",
+    "runtime-main.js.map": "/certificates-ui/static/js/runtime-main.a4b72750.js.map",
+    "static/css/2.150d169a.chunk.css": "/certificates-ui/static/css/2.150d169a.chunk.css",
+    "static/js/2.e1d14c1e.chunk.js": "/certificates-ui/static/js/2.e1d14c1e.chunk.js",
+    "static/js/2.e1d14c1e.chunk.js.map": "/certificates-ui/static/js/2.e1d14c1e.chunk.js.map",
+    "static/js/3.876650ad.chunk.js": "/certificates-ui/static/js/3.876650ad.chunk.js",
+    "static/js/3.876650ad.chunk.js.map": "/certificates-ui/static/js/3.876650ad.chunk.js.map",
+    "index.html": "/certificates-ui/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/certificates-ui/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/certificates-ui/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e1d14c1e.chunk.js.LICENSE.txt": "/certificates-ui/static/js/2.e1d14c1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4b72750.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e1d14c1e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.32f94f2a.chunk.js"
+  ]
+}

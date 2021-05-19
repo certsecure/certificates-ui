@@ -1,25 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {Button, Card, Col, Container, NavLink, Row} from "react-bootstrap";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Container>
+        <Row>
+          <Col><h1>CertSecu.re</h1></Col>
+        </Row>
+          <Row>
+              <Col>              <h2>My Certificates</h2>
+              </Col>
+          </Row>
+          <Row>
+              <Col>
+              <Card>
+                  <Card.Body className="pb-2">
+                      <Card.Title className="mb-1">Advanced First Aid<small className="text-muted" style={{float:"right", fontSize:"60%"}}>Exp: 23/06/2021</small></Card.Title>
+                      <Card.Subtitle className="mb-0 text-muted">St. John Ambulance</Card.Subtitle>
+                      <a href="#" style={{float:"right"}}>Details</a>&nbsp;
+                  </Card.Body>
+
+              </Card>
+              </Col>
+          </Row>
+      </Container>
   );
 }
 
